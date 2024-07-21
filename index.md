@@ -3,3 +3,6 @@
 ```
 print("Hello gardascigim")
 ```
+- [x] wake up
+- [x] go to toilet
+- [ ] get out of bed
